@@ -1,4 +1,4 @@
-I am in the process of moving my projects to [Codeberg](https://codeberg.org/).
+I am in the process of moving my projects to [Codeberg](https://codeberg.org/) - a German non-profit, community-led effort that provides Git hosting.
 
 My Codeberg page is available at: [https://codeberg.org/themaklin](https://codeberg.org/themaklin)
 
